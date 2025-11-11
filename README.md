@@ -4,6 +4,4 @@ teste2
 primeira atualizacao
 autenticacao user/pw
 autenticacao via token de acesso
-meu deus!
-pqp
-merdas suja
+https://aline-antunes.gitbook.io/formacao-fundamentos-github/
