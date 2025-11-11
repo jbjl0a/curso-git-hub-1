@@ -6,3 +6,4 @@ autenticacao user/pw
 autenticacao via token de acesso
 meu deus!
 pqp
+merdas suja
